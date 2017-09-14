@@ -108,7 +108,7 @@ html, body {
     box-shadow: #666 0px 2px 3px;
 }
 
-@media only screen and (max-width: 747px) {
+@media only screen and (max-width: 767px) {
     .mainHeaderText {
         flex: 1 100%;
         text-align: center;
