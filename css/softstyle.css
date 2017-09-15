@@ -25,6 +25,9 @@ html, body {
 
 .mainHeader {
     background-color: var(--headFootPrimary);
+    position: fixed;
+    min-width: 100%;
+    top: 0;
 }
 
 .mainHeaderTop {
@@ -91,7 +94,7 @@ html, body {
 }
 
 .mainShell {
-    margin-top: 0.5%;
+    margin-top: 125px;
     margin-left: var(--sidebarMargin);
     margin-right: var(--sidebarMargin);
 }
